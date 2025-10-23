@@ -77,6 +77,7 @@ Example Interface:
 <img width="1223" height="856" alt="app interface" src="https://github.com/user-attachments/assets/63b58385-5c37-4d2a-8e7e-a3773eac0a0c" />
 
 
+
 ## 🧠 Key Learnings
 
 Through this project, I learned how to:
