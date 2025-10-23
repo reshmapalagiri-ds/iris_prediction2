@@ -49,8 +49,7 @@ This project demonstrates the complete *ML workflow*, from model training to dep
 
 1. *Clone this repository*
    ```bash
-   git clone https://github.com/yourusername/iris-prediction-app.git
-   cd iris-prediction-app
+   git clone https://github.com/reshmapalagiri-ds/iris_prediction2
 
 2. Install dependencies
 
@@ -106,7 +105,7 @@ iris-prediction-app/
 
 ## 🔗 Links
 
-💻 Project Code: https://github.com/yourusername/iris-prediction-app
+💻 Project Code: https://github.com/reshmapalagiri-ds/iris_prediction2
 
 🌐 LinkedIn: www.linkedin.com/in/palagiri-reshma
 
